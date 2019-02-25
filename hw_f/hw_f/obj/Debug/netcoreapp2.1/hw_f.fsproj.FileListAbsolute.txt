@@ -1,0 +1,10 @@
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\bin\Debug\netcoreapp2.1\hw_f.deps.json
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\bin\Debug\netcoreapp2.1\hw_f.runtimeconfig.json
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\bin\Debug\netcoreapp2.1\hw_f.runtimeconfig.dev.json
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\bin\Debug\netcoreapp2.1\hw_f.dll
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\bin\Debug\netcoreapp2.1\hw_f.pdb
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\obj\Debug\netcoreapp2.1\hw_f.fsprojAssemblyReference.cache
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\obj\Debug\netcoreapp2.1\hw_f.AssemblyInfoInputs.cache
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\obj\Debug\netcoreapp2.1\hw_f.AssemblyInfo.fs
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\obj\Debug\netcoreapp2.1\hw_f.dll
+C:\Users\ひさし\Source\Repos\hw_f\hw_f\obj\Debug\netcoreapp2.1\hw_f.pdb
