@@ -1,0 +1,11 @@
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\bin\Debug\hw_vb.exe.config
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\bin\Debug\hw_vb.exe
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\bin\Debug\hw_vb.pdb
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\bin\Debug\hw_vb.xml
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.vbprojAssemblyReference.cache
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.Resources.resources
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.vbproj.GenerateResource.cache
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.vbproj.CoreCompileInputs.cache
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.exe
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.xml
+C:\Users\ひさし\Source\Repos\hw_vb\hw_vb\obj\Debug\hw_vb.pdb
